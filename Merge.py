@@ -1,1 +1,1 @@
-Print("mi primer codigo")
+Print("generacion de error")
