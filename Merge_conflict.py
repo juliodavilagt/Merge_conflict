@@ -1,2 +1,1 @@
-
-print("mi primer codigo")
+print("hola mundo")
